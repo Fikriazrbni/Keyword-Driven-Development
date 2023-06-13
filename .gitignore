@@ -1,0 +1,8 @@
+/target/
+/Screenshot/
+/outputSuccess/
+/test-output/
+/resultDataDummyFile/*
+*.png
+.idea
+vscode/
